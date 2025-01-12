@@ -16,9 +16,9 @@ This project includes three distinct AI agents. Each demonstrating a different l
 |-------------------------|----------------------|-------------------------|--------------------------------------------------|
 | **Hardcoded Agent**     | Manual integration   | General-purpose         | Basic weather queries (manual function calls).  |
 | **ReAct Framework Agent** | Fully automated       | Dynamic decision-making | Automated weather or general inquiries.         |
-| **SEO Audit Agent**     | Fully automated       | Domain-specific (SEO)   | Analyzing and optimizing webpage performance.    |
+| **SEO Auditor Agent**     | Fully automated       | Domain-specific (SEO)   | Analyzing and optimizing webpage performance.    |
 
-These examples highlight progressively advanced implementations of AI agents. They start with a **hardcoded agent** and culminating in a specialized **SEO Audit AI Agent**.
+These examples highlight progressively advanced implementations of AI agents. They start with a **hardcoded agent** and culminating in a specialized **SEO Auditor AI Agent**.
 
 ---
 
@@ -49,7 +49,7 @@ These examples highlight progressively advanced implementations of AI agents. Th
 
 ---
 
-### 3. SEO Audit AI Agent
+### 3. SEO Auditor AI Agent
 - **Description:**  
   A domain-specific AI agent designed for SEO analysis and webpage performance optimization.
 - **Features:**  
