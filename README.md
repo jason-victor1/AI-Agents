@@ -4,7 +4,7 @@
 
 This repository provides a comprehensive, step-by-step guide to building **Autonomous AI Agents** with Python. The project demonstrates how to create AI agents capable of performing specific tasks, integrating external tools, and making dynamic decisions. The implementations progress from basic examples to advanced, domain-specific agents.
 
-Each agent leverages OpenAI's language models and Python-based frameworks to solve real-world problems. The repository also includes tools and guides, like **Basic Setup** and the **SimplerLLM Library**, which are critical for preparing the development environment and simplifying the process of creating AI agents.
+Each agent leverages OpenAI's language models and Python-based frameworks to solve real-world problems. The repository also includes tools and guides.
 
 ---
 
@@ -35,18 +35,6 @@ This repository includes two essential tools that simplify the development of AI
   - OpenAI API configuration.
 - **Example Use Case:**  
   Set up your Python environment and authenticate with OpenAI for future AI agent projects.
-
----
-
-### 2. [SimplerLLM Library](https://github.com/jason-victor1/SimplerLLM-library.git)
-- **Description:**  
-  A lightweight Python library designed to simplify interaction with language models like OpenAI’s GPT-4 or Anthropic’s Claude. It is used extensively across AI agent projects to streamline development workflows.
-- **Features:**  
-  - Simplifies interaction with AI language models.
-  - Includes built-in tools for data extraction and API integration.
-  - Reduces boilerplate code, allowing developers to focus on agent logic.
-- **Example Use Case:**  
-  Use SimplerLLM to replace complex setup and dependencies for a more efficient development process.
 
 ---
 
@@ -93,7 +81,6 @@ This repository includes two essential tools that simplify the development of AI
 
 - **Automation Levels:** The repository demonstrates progression from manual integration (Hardcoded Agent) to fully automated agents (ReAct Framework and SEO Auditor AI Agent).
 - **Practical Use Cases:** Each agent serves a unique purpose, from basic queries to solving real-world problems like SEO analysis.
-- **Development Tools:** The **Basic Setup** and **SimplerLLM Library** simplify environment setup and streamline workflows.
 - **Dynamic Decision-Making:** The ReAct framework enables agents to analyze tasks, select tools, and seamlessly integrate results.
 
 ---
@@ -118,6 +105,5 @@ This repository includes two essential tools that simplify the development of AI
 
 2. Follow the instructions in the **Basic Setup** repo to configure your development environment.
 
-3. Use the **SimplerLLM Library** for efficient AI agent creation.
 
-4. Explore and build the included AI agents, starting with the **Hardcoded AI Agent** and progressing to the **SEO Auditor AI Agent**.
+3. Explore and build the included AI agents, starting with the **Hardcoded AI Agent** and progressing to the **SEO Auditor AI Agent**.
